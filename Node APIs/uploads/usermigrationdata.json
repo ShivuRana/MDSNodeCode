@@ -1,0 +1,12 @@
+[
+  {
+    "email": "spa@decodeup.email",
+    "email_verified": true,
+    "password_hash": "$2a$10$m2y3v.O9prNEhiTMyPppK.hAgXgb2.L9Ij5Et1vXbIllMC9Li/Hti"
+  },
+  {
+    "email": "bs@decodeup.email",
+    "email_verified": true,
+    "password_hash": "$2a$10$dVaDkSlphYBxdWNPNhoAgO6jyGCARh.rqDuvdDR.VlCb9ocanIiTi"
+  }
+]

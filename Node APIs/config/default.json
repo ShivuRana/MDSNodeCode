@@ -1,0 +1,22 @@
+{
+    "auth0": {
+        "oauth_token": "https://dev-yc4k4-ud.us.auth0.com/oauth/token",
+        "client_id": "ZwkaXo6MV406BfRa7R4snGvChbYswir5",
+        "client_secret": "QLMeffaBN7w66Itznc_bnL_1mASDwY7L3UKOfvAe0uLTf7RbbBkuf0nD4T4_uFxp",
+        "audience": "https://dev-yc4k4-ud.us.auth0.com/api/v2/",
+        "connection": "MDSDBServer"
+    },
+    "stripe": {
+        "secret_key": "sk_test_c0sCtjichKZEhtAJaJeIv35C"
+    },
+    "user": {
+        "role_id": "62e3d1c502701d451923769d"
+    },
+    "appletoken": {
+        "client_id": "com.web.mdscommunity.sid",
+        "team_id": "M523QN9PMJ",
+        "key_id": "K8XVT9B472",
+        "redirect_uri": "https://test.milliondollarsellers.com/appleauthenticate",
+        "scope": "name email"
+      }
+}
